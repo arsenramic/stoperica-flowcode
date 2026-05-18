@@ -25,8 +25,11 @@ flowcode/stoperica.flowcode
 Pokreni ga u **Flowcode simulatoru** i koristi dugmad kako je opisano.  
 
 ---
-
+## 🖼️ Slike
 ![Stoperica](stoperica1.PNG)
+![Stoperica](stoperica2.PNG)
+
+---
 
 ## 👤 Autor
 
