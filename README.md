@@ -5,15 +5,6 @@ Omogućava jednostavno mjerenje vremena sa funkcijama **Start**, **Stop**, **Res
 
 ---
 
-## 🖼️ Slike stoperice
-
-Evo kako stoperica izgleda:
-
-![Stoperica - prikaz 1](Stopericaproject/images/stoperica1.png)  
-![Stoperica - prikaz 2](Stopericaproject/images/stoperica2.png)  
-
----
-
 ## 🎛️ Funkcije dugmadi
 
 | Dugme | Za šta služi | Emoji |
