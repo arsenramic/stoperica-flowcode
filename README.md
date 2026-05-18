@@ -26,6 +26,8 @@ Pokreni ga u **Flowcode simulatoru** i koristi dugmad kako je opisano.
 
 ---
 
+![Stoperica](stoperica1.PNG)
+
 ## 👤 Autor
 
 **Arsen Ramić**
