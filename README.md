@@ -19,12 +19,6 @@ Omogućava jednostavno mjerenje vremena sa funkcijama **Start**, **Stop**, **Res
 ## 📂 Lokacija projekta
 
 Projekat se nalazi u folderu:  
-
----
-
-## 📂 Lokacija projekta
-
-Projekat se nalazi u folderu:  
 flowcode/stoperica.flowcode
 
 
