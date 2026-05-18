@@ -1,24 +1,31 @@
 # ⏱️ Digitalna Stoperica u Flowcode
 
-
 Ovo je **digitalna stoperica** napravljena u **Flowcode-u**.  
 Omogućava jednostavno mjerenje vremena sa funkcijama **Start**, **Stop**, **Reset** i **Lap**.  
 
 ---
 
-## ⚙️ Funkcije
+## 🎛️ Funkcije dugmadi
 
-| Funkcija | Opis | Emoji |
-|----------|------|-------|
-| Start    | Pokreće stopericu | ▶️ |
-| Stop     | Zaustavlja stopericu | ⏸️ |
-| Reset    | Vraća vrijeme na nulu | 🔄 |
-| Lap      | Zabilježava međuvrijeme | 📋 |
+| Dugme | Za šta služi | Emoji |
+|-------|--------------|-------|
+| Start | Pokreće stopericu | ▶️ |
+| Stop  | Zaustavlja stopericu | ⏸️ |
+| Reset | Vraća vrijeme na nulu | 🔄 |
+| Lap   | Zabilježava međuvrijeme | 📋 |
 
 ---
 
-## 🚀 Kako koristiti
+## 📂 Lokacija projekta
 
-1. Kloniraj ili preuzmi ovaj repozitorij:  
-   ```bash
-   git clone https://github.com/tvojusername/stoperica.git
+Projekat se nalazi u folderu:  
+flowcode/stoperica.flowcode
+
+
+Pokreni ga u **Flowcode simulatoru** i koristi dugmad kako je opisano.  
+
+---
+
+## 👤 Autor
+
+**Arsen Ramić**
