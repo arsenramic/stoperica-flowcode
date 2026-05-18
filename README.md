@@ -1,24 +1,24 @@
 # ⏱️ Digitalna Stoperica u Flowcode
 
-## Opis
-Ovo je digitalna stoperica napravljena u Flowcode-u.
-Omogućava sljedeće funkcije:
 
-▶️ Start – pokreni mjerenje vremena
-⏸️ Stop – zaustavi stopericu
-🔄 Reset – resetuj vrijeme na nulu
-📋 Lap – zabilježi međuvrijeme (lap time)
+Ovo je **digitalna stoperica** napravljena u **Flowcode-u**.  
+Omogućava jednostavno mjerenje vremena sa funkcijama **Start**, **Stop**, **Reset** i **Lap**.  
 
-## Kako koristiti
+---
 
-Otvori Flowcode projekat iz foldera:
-flowcode/stoperica.flowcode
-Pokreni stopericu u Flowcode simulatoru.
-Koristi dugmad za Start, Stop, Reset i Lap da kontrolišeš stopericu.
+## ⚙️ Funkcije
 
-## Autor
-👤 Arsen Rami
+| Funkcija | Opis | Emoji |
+|----------|------|-------|
+| Start    | Pokreće stopericu | ▶️ |
+| Stop     | Zaustavlja stopericu | ⏸️ |
+| Reset    | Vraća vrijeme na nulu | 🔄 |
+| Lap      | Zabilježava međuvrijeme | 📋 |
 
-## Napomena:
-Ova stoperica je jednostavan i vizualno pregledan način da vježbaš rad sa digitalnim timerima u Flowcode-u. 🕒✨
+---
 
+## 🚀 Kako koristiti
+
+1. Kloniraj ili preuzmi ovaj repozitorij:  
+   ```bash
+   git clone https://github.com/tvojusername/stoperica.git
